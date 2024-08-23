@@ -61,3 +61,5 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaunthecomputerscientist&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthecomputerscientist&theme=default)
+
+![Contribution Graph](https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/generated/vertical.svg)
