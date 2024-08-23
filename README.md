@@ -54,3 +54,6 @@ I'm passionate about mathematics and statistics, and I love diving deep into com
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or [X formerly Twitter](https://x.com/ShaunakGRoy3?t=LgFTFLS4Y2bMGBGtCDirFA&s=09). 
+
+
+https://github-readme-stats.vercel.app/api?username=shaunthecomputerscientist&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=default
