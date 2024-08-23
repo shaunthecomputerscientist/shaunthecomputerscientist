@@ -1,4 +1,4 @@
-# Hi there, I'm Shaunak Roy! 👋
+# Hi there, I'm Shaunak 👋
 
 I'm passionate about mathematics and statistics, and I love diving deep into computer science. My particular interests lie in data science and ML.
 
@@ -56,4 +56,4 @@ I'm passionate about mathematics and statistics, and I love diving deep into com
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or [X formerly Twitter](https://x.com/ShaunakGRoy3?t=LgFTFLS4Y2bMGBGtCDirFA&s=09). 
 
 
-https://github-readme-stats.vercel.app/api?username=shaunthecomputerscientist&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=default
+![Shaun's Activity Status](https://github-readme-stats.vercel.app/api?username=shaunthecomputerscientist&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=default)
