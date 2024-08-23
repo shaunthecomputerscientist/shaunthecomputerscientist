@@ -57,3 +57,7 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) 
 
 
 ![Shaun's Activity Status](https://github-readme-stats.vercel.app/api?username=shaunthecomputerscientist&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaunthecomputerscientist&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthecomputerscientist&theme=default)
