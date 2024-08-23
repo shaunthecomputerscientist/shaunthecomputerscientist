@@ -53,4 +53,4 @@ I'm passionate about mathematics and statistics, and I love diving deep into com
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourprofile). 
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or [X formerly Twitter](https://x.com/ShaunakGRoy3?t=LgFTFLS4Y2bMGBGtCDirFA&s=09). 
