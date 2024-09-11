@@ -3,9 +3,11 @@
 I'm passionate about mathematics and statistics, and I love diving deep into computer science. My particular interests lie in data science and ML.
 
 ## Connect with Me
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 
 - 📧 Email: [mrpolymathematica@gmail.com](mailto:mrpolymathematica@gmail.com)
-- [![X](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/X_logo_2023.svg/2048px-X_logo_2023.svg.png)](https://x.com/ShaunakGRoy3?t=LgFTFLS4Y2bMGBGtCDirFA&s=09)
+- [![Twitter (present X)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/X_logo_2023.svg/2048px-X_logo_2023.svg.png)](https://x.com/ShaunakGRoy3?t=LgFTFLS4Y2bMGBGtCDirFA&s=09)
 
 ## 🌟 Skills & Technologies
 
