@@ -7,7 +7,7 @@ I'm passionate about mathematics and statistics, and I love diving deep into com
 
 
 - 📧 Email: [mrpolymathematica@gmail.com](mailto:mrpolymathematica@gmail.com)
-- [Twitter (present X)](https://x.com/ShaunakGRoy3?t=LgFTFLS4Y2bMGBGtCDirFA&s=09)
+- [Twitter (present X)](https://x.com/__piler__?t=bEPxmGtPmJQX_puVh81p6g&s=09 )
 
 ## 🌟 Skills & Technologies
 
