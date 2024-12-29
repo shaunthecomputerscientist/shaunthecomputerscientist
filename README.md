@@ -12,14 +12,14 @@ I'm passionate about mathematics and statistics, and I love diving deep into com
 ## 🌟 Skills & Technologies
 
 **Programming Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)  
-![AWK](https://img.shields.io/badge/-AWK-000000?style=flat)  
-![SED](https://img.shields.io/badge/-SED-000000?style=flat)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![AWK](https://img.shields.io/badge/-AWK-000000?style=flat)
+![SED](https://img.shields.io/badge/-SED-000000?style=flat)
 
 
 **Cloud Technologies:**  
