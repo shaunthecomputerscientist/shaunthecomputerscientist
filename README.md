@@ -64,6 +64,6 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) 
 
 ![Shaun's Activity Status](https://github-readme-stats.vercel.app/api?username=shaunthecomputerscientist&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaunthecomputerscientist&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shaunthecomputerscientist&theme=dark&exclude_days=Sun,Sat&locale=fr)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthecomputerscientist&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthecomputerscientist&theme=radical&hide=javascript,html)
