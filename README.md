@@ -66,4 +66,4 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shaunthecomputerscientist&theme=dark&exclude_days=Sun,Sat&locale=fr)
 
-![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthecomputerscientist&theme=radical&hide=javascript,html](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthecomputerscientist&theme=radical&hide=css,powershell,vue,batchfile,dockerfile))
+![Top Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=shaunthecomputerscientist&theme=radical&hide=css,powershell,vue,batchfile,dockerfile])
